@@ -1,3 +1,4 @@
 # smart-garbage-classification
 通过深度学习智能识别垃圾的类型
 用于家庭的智能垃圾分类
+树莓派3把识别的结果发给arduino，arduino控制垃圾分类盒移动投放垃圾
